@@ -1,6 +1,8 @@
 <template>
   <div class="home">
-    Home - Vue - ysk8
+    <h1>home</h1>
+    <h2>- Vue -</h2>
+    ysk8
   </div>
 </template>
 
