@@ -1,6 +1,6 @@
 <template>
   <div class="faq">
-    FAQ
+    FAQ - Vue - ysk8
   </div>
 </template>
 
