@@ -45,12 +45,21 @@ export default {
 @import '../node_modules/bulma/bulma.sass'
 @import 'mq'
 
-#app 
-  font-family: 'Avenir', Helvetica, Arial, sans-serif
-  -webkit-font-smoothing: antialiased
-  -moz-osx-font-smoothing: grayscale
-  text-align: center
-  color: #2c3e50
-  margin-top: 60px
+.nav
+  background-color: #383838
+  a:hover
+    color: gray
+
+  .nav-left a
+    color: #fff
+    font-weight: bold
+
+  a.r-item
+    color: #C1C1C1
+    padding: 0.5rem 1.75rem
+    +mobile
+      color: gray
+      &:hover
+        background-color: #F1F1F1
 
 </style>
