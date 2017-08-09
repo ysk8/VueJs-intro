@@ -41,8 +41,8 @@
             <p>And this right here is a spiffy footer, where you can put stuff.</p>
           </div>
           <div class="column has-text-right">
-            <a class="icon" href="#"><i class="fa fa-facebook-f"></i></a>
-            <a class="icon" href="#"><i class="fa fa-twitter-f"></i></a>
+            <a class="icon" href="#"><i class="fab fa-facebook-f"></i></a>
+            <a class="icon" href="#"><i class="fab fa-twitter"></i></a>
           </div>
         </div>
       </div>
